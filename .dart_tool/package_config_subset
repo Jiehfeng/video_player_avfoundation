@@ -2,6 +2,10 @@ video_player_avfoundation
 2.14
 file:///C:/Users/alain/Desktop/video_player_avfoundation/
 file:///C:/Users/alain/Desktop/video_player_avfoundation/lib/
+video_player_platform_interface
+2.12
+file:///C:/Users/alain/Documents/flutter/.pub-cache/git/video_player_platform_interface-85de527d391da0bdb396c6a59b8727f6c3aa9c3f/
+file:///C:/Users/alain/Documents/flutter/.pub-cache/git/video_player_platform_interface-85de527d391da0bdb396c6a59b8727f6c3aa9c3f/lib/
 _fe_analyzer_shared
 2.12
 file:///C:/Users/alain/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-31.0.0/
@@ -122,10 +126,6 @@ vector_math
 2.14
 file:///C:/Users/alain/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.2/
 file:///C:/Users/alain/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.2/lib/
-video_player_platform_interface
-2.12
-file:///C:/Users/alain/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-6.0.1/
-file:///C:/Users/alain/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-6.0.1/lib/
 watcher
 2.14
 file:///C:/Users/alain/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/watcher-1.0.2/
